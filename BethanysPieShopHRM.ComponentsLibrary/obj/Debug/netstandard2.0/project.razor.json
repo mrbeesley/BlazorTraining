@@ -1,0 +1,21 @@
+{
+  "FilePath": "c:\\Users\\micha\\source\\repos\\getting-started-blazor\\Assets\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "BethanysPieShopHRM.ComponentsLibrary",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\micha\\source\\repos\\getting-started-blazor\\Assets\\BethanysPieShopHRM.ComponentsLibrary\\Map\\Map.razor",
+      "TargetPath": "Map\\Map.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

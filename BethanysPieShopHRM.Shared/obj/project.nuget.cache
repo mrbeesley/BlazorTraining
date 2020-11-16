@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7wW4ILVUcuKrem5uR8ags+f09DN05RZa4+xsUjS7Bj9IxXQTpGTW9XTv6FCi3izwvnO6eviER9yp1J0MSYfRwQ==",
+  "dgSpecHash": "NvOpZIYRbG63MDN5f+beCPHH+eeBx8/qwRmxN7yXvzqvuD8nkYuFGNt197QVeHAaPIvXJM3sNpneJ2WNZrcCGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\micha\\source\\repos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\micha\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

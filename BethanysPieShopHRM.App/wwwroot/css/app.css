@@ -92,14 +92,14 @@ nav {
     transition: margin .25s ease-out;
 }
 
-    #sidebar-wrapper .sidebar-heading {
-        padding: 0.875rem 1.25rem;
-        font-size: 1.2rem;
-    }
+#sidebar-wrapper .sidebar-heading {
+    padding: 0.875rem 1.25rem;
+    font-size: 1.2rem;
+}
 
-    #sidebar-wrapper .list-group {
-        width: 15rem;
-    }
+#sidebar-wrapper .list-group {
+    width: 15rem;
+}
 
 .list-group-item.active, .list-group-item.active:active, .list-group-item.active:focus, .list-group-item.active:visited {
     color: white;
@@ -155,11 +155,11 @@ nav {
     border-radius: 50%;
 }
 
-    .table-btn:hover, .table-btn:active {
-        color: #fff;
-        background-color: #a593c2 !important;
-        border-color: #a593c2 !important;
-    }
+.table-btn:hover, .table-btn:active {
+    color: #fff;
+    background-color: #a593c2 !important;
+    border-color: #a593c2 !important;
+}
 
 .quick-add-btn {
     font-size: 36px;
@@ -204,11 +204,11 @@ nav {
     border-color: #23cfa7;
 }
 
-    .edit-outline-btn:hover, .edit-outline-btn:active {
-        color: #fff;
-        background-color: #a593c2 !important;
-        border-color: #a593c2 !important;
-    }
+.edit-outline-btn:hover, .edit-outline-btn:active {
+    color: #fff;
+    background-color: #a593c2 !important;
+    border-color: #a593c2 !important;
+}
 
 
 #blazor-error-ui {
@@ -223,9 +223,13 @@ nav {
     z-index: 1000;
 }
 
-    #blazor-error-ui .dismiss {
-        cursor: pointer;
-        position: absolute;
-        right: 0.75rem;
-        top: 0.5rem;
-    }
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}
+
+.validation-message {
+    color: red;
+}
